@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Biswojit and I'm a FullStack AI developer from Odisha</h2>
+<h2 align="left">Hi 👋! My name is Biswojit and I'm a FullStack AI developer from India</h2>
 
 ###
 
