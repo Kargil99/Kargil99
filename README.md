@@ -44,6 +44,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hello World!!
+This is Biswojit, I'm a passionate software developer and aspiring tech innovator with a strong drive for building impactful solutions through code. Whether it's crafting sleek, user-friendly web applications or diving into the depths of machine learning, I’m all about transforming ideas into reality. My goal? To keep learning, growing, and contributing to projects that make a difference.</p>
 
 ###
